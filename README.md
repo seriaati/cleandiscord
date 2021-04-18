@@ -1,19 +1,10 @@
-## Horizontal Server List
-Moves the server list from the left to the top of Discord. Compatible with Server Folders and most basic transparent themes
+## Clean Discord
+A smol discord theme that has only 3 lines but gives you a clean discord (at least this is what I was looking for, just sharing)
 
 - - -
-BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3360](https://betterdiscord.net/ghdl?id=3360)  
-Powercord Install: `git clone https://github.com/DiscordStyles/HorizontalServerlist`
+Powercord Install: `git clone https://github.com/seriaati/cleandiscord/`
 - - -
 
-![Preview](https://i.imgur.com/ygGh3hy.jpg)  
+![Server Chat Preview](https://i.imgur.com/oAQMztw.png)  
 
-Supports ServerFolders by DevilBro
-![ServerFolders Support](https://i.imgur.com/XUdPf8D.jpg)
-
-Custom Server icon sizes
-![Server Icon Sizes](https://i.imgur.com/KQlsfee.jpg)
-
-## License
-
-See the [LICENSE](https://github.com/DiscordStyles/HorizontalServerList/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+![DM Chat Preview](https://i.imgur.com/D9Ht088.png)  
