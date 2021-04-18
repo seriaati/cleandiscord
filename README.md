@@ -1,5 +1,5 @@
 ## Clean Discord
-A smol discord theme that has only 3 lines but gives you a clean discord (at least this is what I was looking for, just putting it here to share)
+A smol discord theme that has only 6 lines but gives you a clean discord (at least this is what I was looking for, just putting it here to share)
 
 - - -
 Powercord Install: `git clone https://github.com/seriaati/cleandiscord/`
