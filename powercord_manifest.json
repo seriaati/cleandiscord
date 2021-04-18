@@ -1,0 +1,9 @@
+{
+    "name": "Clean Discord",
+    "description": "Hide everything and only leaves the chat area",
+    "version": "1.0.0",
+    "author": "seria#6779",
+    "theme": "HorizontalServerList.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
