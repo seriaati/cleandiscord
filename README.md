@@ -14,6 +14,6 @@ DM Chat Preview:
 Compact mode gives you a more minimal look:
 ![Compact Mode Preview](https://i.imgur.com/Wb8Zy0L.png)  
 
-You might find yourself stuck in the current channel, no problem tho, you can utilize the discord hotkeys:
-Ctrl or Cmd + K -> Switch channels, search channels, etc. (try it yourself and you'll understand)
+You might find yourself stuck in the current channel, no problem tho, you can utilize the discord hotkeys:\
+Ctrl or Cmd + K -> Switch channels, search channels, etc. (try it yourself and you'll understand)\
 Ctrl or Cmd + , -> Settings
